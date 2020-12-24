@@ -4,7 +4,8 @@
  </p> 
  
 # Henry Comics
- Henry Comics es un proyecto e-commerce desarrollado en la etapa Labs de la carrera Full Stack Developer de Henry
+Henry Comics es un proyecto e-commerce desarrollado en la etapa Labs de la carrera Full Stack Developer de Henry.
+https://henry-comics.vercel.app/
 
 ## Tecnologias utilizadas en el desarrollo
  
